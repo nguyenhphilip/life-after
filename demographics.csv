@@ -1,0 +1,50 @@
+question,value,n,id,per
+In what country do you currently live?,Argentina,2,1,0.72
+In what country do you currently live?,Brazil,1,1,0.36
+In what country do you currently live?,Canada,1,1,0.36
+In what country do you currently live?,Colombia,4,1,1.44
+In what country do you currently live?,Costa Rica,1,1,0.36
+In what country do you currently live?,France,1,1,0.36
+In what country do you currently live?,Germany,5,1,1.8
+In what country do you currently live?,Hungary,4,1,1.44
+In what country do you currently live?,Mexico,115,1,41.37
+In what country do you currently live?,Paraguay,1,1,0.36
+In what country do you currently live?,Russia,25,1,8.99
+In what country do you currently live?,Spain,3,1,1.08
+In what country do you currently live?,Unnited States,112,1,40.29
+In what country do you currently live?,Uruguay,2,1,0.72
+In what country do you currently live?,Venezuela,1,1,0.36
+What is the highest level of education you have completed?,Associate's Degree,14,2,5.04
+What is the highest level of education you have completed?,Bachelor's Degree,89,2,32.01
+What is the highest level of education you have completed?,Doctorate degree,51,2,18.35
+What is the highest level of education you have completed?,High School or equivalent (GED),40,2,14.39
+What is the highest level of education you have completed?,Less than HS diploma,3,2,1.08
+What is the highest level of education you have completed?,Master's Degree,55,2,19.78
+What is the highest level of education you have completed?,"Professional Degree (for example: MD, DDS, JD)",8,2,2.88
+What is the highest level of education you have completed?,"Some College, but no degree",18,2,6.47
+What is your current employment status?,Full-time eployment,114,3,41.01
+What is your current employment status?,Home-maker,6,3,2.16
+What is your current employment status?,Part-time employment,21,3,7.55
+What is your current employment status?,Retired,7,3,2.52
+What is your current employment status?,Self-employed,21,3,7.55
+What is your current employment status?,Student,92,3,33.09
+What is your current employment status?,Unemployed,17,3,6.12
+What is your gender?,Female,158,4,56.83
+What is your gender?,Gender Variant/Non-Conforming,6,4,2.16
+What is your gender?,Male,112,4,40.29
+What is your gender?,Prefer Not to Answer,2,4,0.72
+What is your marital status?,Divorced,14,5,5.04
+What is your marital status?,In a domestic partnership or civil union,15,5,5.4
+What is your marital status?,Married,71,5,25.54
+What is your marital status?,Separated,4,5,1.44
+What is your marital status?,"Single, but cohabiting with a significant other",34,5,12.23
+What is your marital status?,"Single, never married",138,5,49.64
+What is your marital status?,Widowed,2,5,0.72
+What is your race or ethnicity? (Select all that apply.),Asian,11,6,3.96
+What is your race or ethnicity? (Select all that apply.),Black/African,3,6,1.08
+What is your race or ethnicity? (Select all that apply.),Caucasian,113,6,40.65
+What is your race or ethnicity? (Select all that apply.),Hispanic/Latino,95,6,34.17
+What is your race or ethnicity? (Select all that apply.),Indigenous,2,6,0.72
+What is your race or ethnicity? (Select all that apply.),Mixed Race,50,6,17.99
+What is your race or ethnicity? (Select all that apply.),Other,2,6,0.72
+What is your race or ethnicity? (Select all that apply.),Russian,2,6,0.72

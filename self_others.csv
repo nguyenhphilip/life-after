@@ -1,0 +1,300 @@
+question,value,n,q_id,id,section,type,subtype,self_or_others,q_condensed,q_word,per
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I believe people will be more climate conscious.",1,60,2,1,Survey,Policy,Climate,1,Climate Conscious (O),Climate Conscious ,21.58
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I believe people will be more climate conscious.",2,82,2,1,Survey,Policy,Climate,1,Climate Conscious (O),Climate Conscious ,29.5
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I believe people will be more climate conscious.",3,29,2,1,Survey,Policy,Climate,1,Climate Conscious (O),Climate Conscious ,10.43
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I believe people will be more climate conscious.",4,89,2,1,Survey,Policy,Climate,1,Climate Conscious (O),Climate Conscious ,32.01
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I believe people will be more climate conscious.",5,18,2,1,Survey,Policy,Climate,1,Climate Conscious (O),Climate Conscious ,6.47
+"I believe people will avoid crowded areas more (e.g. concerts, theme parks).",1,82,4,2,Survey,Social-Cultural,Lifestyle,1,Avoid Crowds (O),Avoid Crowds ,29.5
+"I believe people will avoid crowded areas more (e.g. concerts, theme parks).",2,63,4,2,Survey,Social-Cultural,Lifestyle,1,Avoid Crowds (O),Avoid Crowds ,22.66
+"I believe people will avoid crowded areas more (e.g. concerts, theme parks).",3,34,4,2,Survey,Social-Cultural,Lifestyle,1,Avoid Crowds (O),Avoid Crowds ,12.23
+"I believe people will avoid crowded areas more (e.g. concerts, theme parks).",4,76,4,2,Survey,Social-Cultural,Lifestyle,1,Avoid Crowds (O),Avoid Crowds ,27.34
+"I believe people will avoid crowded areas more (e.g. concerts, theme parks).",5,23,4,2,Survey,Social-Cultural,Lifestyle,1,Avoid Crowds (O),Avoid Crowds ,8.27
+I believe people will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,1,3,17,3,Survey,Social-Cultural,Cooperation,1,Globally Aware (O),Globally Aware ,1.08
+I believe people will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,2,13,17,3,Survey,Social-Cultural,Cooperation,1,Globally Aware (O),Globally Aware ,4.68
+I believe people will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,3,91,17,3,Survey,Social-Cultural,Cooperation,1,Globally Aware (O),Globally Aware ,32.73
+I believe people will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,4,141,17,3,Survey,Social-Cultural,Cooperation,1,Globally Aware (O),Globally Aware ,50.72
+I believe people will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,5,30,17,3,Survey,Social-Cultural,Cooperation,1,Globally Aware (O),Globally Aware ,10.79
+I believe people will be ____ trustful of medical professionals.,1,2,24,4,Survey,Policy,Health,1,Trust Doctors (O),Trust Doctors ,0.72
+I believe people will be ____ trustful of medical professionals.,2,22,24,4,Survey,Policy,Health,1,Trust Doctors (O),Trust Doctors ,7.91
+I believe people will be ____ trustful of medical professionals.,3,90,24,4,Survey,Policy,Health,1,Trust Doctors (O),Trust Doctors ,32.37
+I believe people will be ____ trustful of medical professionals.,4,131,24,4,Survey,Policy,Health,1,Trust Doctors (O),Trust Doctors ,47.12
+I believe people will be ____ trustful of medical professionals.,5,33,24,4,Survey,Policy,Health,1,Trust Doctors (O),Trust Doctors ,11.87
+"I believe people will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",1,31,10,5,Survey,Cultural,Well-being,1,Independent (O),Independent ,11.15
+"I believe people will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",2,53,10,5,Survey,Cultural,Well-being,1,Independent (O),Independent ,19.06
+"I believe people will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",3,56,10,5,Survey,Cultural,Well-being,1,Independent (O),Independent ,20.14
+"I believe people will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",4,101,10,5,Survey,Cultural,Well-being,1,Independent (O),Independent ,36.33
+"I believe people will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",5,37,10,5,Survey,Cultural,Well-being,1,Independent (O),Independent ,13.31
+"I believe people will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",1,65,15,6,Survey,Political,-,1,Conservative (O),Conservative ,23.38
+"I believe people will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",2,89,15,6,Survey,Political,-,1,Conservative (O),Conservative ,32.01
+"I believe people will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",3,74,15,6,Survey,Political,-,1,Conservative (O),Conservative ,26.62
+"I believe people will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",4,20,15,6,Survey,Political,-,1,Conservative (O),Conservative ,7.19
+"I believe people will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",5,17,15,6,Survey,Political,-,1,Conservative (O),Conservative ,6.12
+"I believe people will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",NA,13,15,6,Survey,Political,-,1,Conservative (O),Conservative ,4.68
+"I believe people will be more politically liberal (e.g. vote for universal healthcare, more government aid).",1,30,14,7,Survey,Political,-,1,Liberal (O),Liberal ,10.79
+"I believe people will be more politically liberal (e.g. vote for universal healthcare, more government aid).",2,35,14,7,Survey,Political,-,1,Liberal (O),Liberal ,12.59
+"I believe people will be more politically liberal (e.g. vote for universal healthcare, more government aid).",3,55,14,7,Survey,Political,-,1,Liberal (O),Liberal ,19.78
+"I believe people will be more politically liberal (e.g. vote for universal healthcare, more government aid).",4,95,14,7,Survey,Political,-,1,Liberal (O),Liberal ,34.17
+"I believe people will be more politically liberal (e.g. vote for universal healthcare, more government aid).",5,53,14,7,Survey,Political,-,1,Liberal (O),Liberal ,19.06
+"I believe people will be more politically liberal (e.g. vote for universal healthcare, more government aid).",NA,10,14,7,Survey,Political,-,1,Liberal (O),Liberal ,3.6
+I believe people will carry masks and/or hand sanitizer around with them as a precaution.,1,17,16,8,Survey,Social-Cultural,Hygiene,1,Carry Masks (O),Carry Masks ,6.12
+I believe people will carry masks and/or hand sanitizer around with them as a precaution.,2,26,16,8,Survey,Social-Cultural,Hygiene,1,Carry Masks (O),Carry Masks ,9.35
+I believe people will carry masks and/or hand sanitizer around with them as a precaution.,3,39,16,8,Survey,Social-Cultural,Hygiene,1,Carry Masks (O),Carry Masks ,14.03
+I believe people will carry masks and/or hand sanitizer around with them as a precaution.,4,140,16,8,Survey,Social-Cultural,Hygiene,1,Carry Masks (O),Carry Masks ,50.36
+I believe people will carry masks and/or hand sanitizer around with them as a precaution.,5,56,16,8,Survey,Social-Cultural,Hygiene,1,Carry Masks (O),Carry Masks ,20.14
+"I believe people will do ____ to maintain their personal wellness (e.g. eat healthfully, exercise, practice work-life balance).",2,7,26,9,Survey,Cultural,Well-being,1,Wellness (O),Wellness ,2.52
+"I believe people will do ____ to maintain their personal wellness (e.g. eat healthfully, exercise, practice work-life balance).",3,123,26,9,Survey,Cultural,Well-being,1,Wellness (O),Wellness ,44.24
+"I believe people will do ____ to maintain their personal wellness (e.g. eat healthfully, exercise, practice work-life balance).",4,122,26,9,Survey,Cultural,Well-being,1,Wellness (O),Wellness ,43.88
+"I believe people will do ____ to maintain their personal wellness (e.g. eat healthfully, exercise, practice work-life balance).",5,26,26,9,Survey,Cultural,Well-being,1,Wellness (O),Wellness ,9.35
+"I believe people will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",1,12,23,10,Survey,Social-Cultural,Hygiene,1,Remind Others (O),Remind Others ,4.32
+"I believe people will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",2,17,23,10,Survey,Social-Cultural,Hygiene,1,Remind Others (O),Remind Others ,6.12
+"I believe people will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",3,50,23,10,Survey,Social-Cultural,Hygiene,1,Remind Others (O),Remind Others ,17.99
+"I believe people will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",4,128,23,10,Survey,Social-Cultural,Hygiene,1,Remind Others (O),Remind Others ,46.04
+"I believe people will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",5,71,23,10,Survey,Social-Cultural,Hygiene,1,Remind Others (O),Remind Others ,25.54
+I believe people will have ____ trust in their government.,1,45,28,11,Survey,Political,-,1,Trust Gov (O),Trust Gov ,16.19
+I believe people will have ____ trust in their government.,2,112,28,11,Survey,Political,-,1,Trust Gov (O),Trust Gov ,40.29
+I believe people will have ____ trust in their government.,3,92,28,11,Survey,Political,-,1,Trust Gov (O),Trust Gov ,33.09
+I believe people will have ____ trust in their government.,4,27,28,11,Survey,Political,-,1,Trust Gov (O),Trust Gov ,9.71
+I believe people will have ____ trust in their government.,5,2,28,11,Survey,Political,-,1,Trust Gov (O),Trust Gov ,0.72
+I believe people will have ____ trust in vaccines.,1,2,25,12,Survey,Policy,Health,1,Trust Vaccines (O),Trust Vaccines ,0.72
+I believe people will have ____ trust in vaccines.,2,12,25,12,Survey,Policy,Health,1,Trust Vaccines (O),Trust Vaccines ,4.32
+I believe people will have ____ trust in vaccines.,3,97,25,12,Survey,Policy,Health,1,Trust Vaccines (O),Trust Vaccines ,34.89
+I believe people will have ____ trust in vaccines.,4,112,25,12,Survey,Policy,Health,1,Trust Vaccines (O),Trust Vaccines ,40.29
+I believe people will have ____ trust in vaccines.,5,55,25,12,Survey,Policy,Health,1,Trust Vaccines (O),Trust Vaccines ,19.78
+I believe people will practice ____ hygiene during annual flu seasons.,2,3,27,13,Survey,Social-Cultural,Hygiene,1,Flu Season (O),Flu Season ,1.08
+I believe people will practice ____ hygiene during annual flu seasons.,3,79,27,13,Survey,Social-Cultural,Hygiene,1,Flu Season (O),Flu Season ,28.42
+I believe people will practice ____ hygiene during annual flu seasons.,4,153,27,13,Survey,Social-Cultural,Hygiene,1,Flu Season (O),Flu Season ,55.04
+I believe people will practice ____ hygiene during annual flu seasons.,5,43,27,13,Survey,Social-Cultural,Hygiene,1,Flu Season (O),Flu Season ,15.47
+"I believe people will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",1,91,3,14,Survey,Cultural,Well-being,1,Digital Habits (O),Digital Habits ,32.73
+"I believe people will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",2,72,3,14,Survey,Cultural,Well-being,1,Digital Habits (O),Digital Habits ,25.9
+"I believe people will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",3,47,3,14,Survey,Cultural,Well-being,1,Digital Habits (O),Digital Habits ,16.91
+"I believe people will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",4,53,3,14,Survey,Cultural,Well-being,1,Digital Habits (O),Digital Habits ,19.06
+"I believe people will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",5,15,3,14,Survey,Cultural,Well-being,1,Digital Habits (O),Digital Habits ,5.4
+"I believe people will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",1,10,22,15,Survey,Social-Cultural,Hygiene,1,Public Hygiene (O),Public Hygiene ,3.6
+"I believe people will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",2,36,22,15,Survey,Social-Cultural,Hygiene,1,Public Hygiene (O),Public Hygiene ,12.95
+"I believe people will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",3,30,22,15,Survey,Social-Cultural,Hygiene,1,Public Hygiene (O),Public Hygiene ,10.79
+"I believe people will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",4,146,22,15,Survey,Social-Cultural,Hygiene,1,Public Hygiene (O),Public Hygiene ,52.52
+"I believe people will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",5,56,22,15,Survey,Social-Cultural,Hygiene,1,Public Hygiene (O),Public Hygiene ,20.14
+I believe people will pursue relationships or intimate interactions online or via technology ____.,1,7,19,16,Survey,Social-Cultural,Lifestyle,1,Relationships (O),Relationships ,2.52
+I believe people will pursue relationships or intimate interactions online or via technology ____.,2,37,19,16,Survey,Social-Cultural,Lifestyle,1,Relationships (O),Relationships ,13.31
+I believe people will pursue relationships or intimate interactions online or via technology ____.,3,127,19,16,Survey,Social-Cultural,Lifestyle,1,Relationships (O),Relationships ,45.68
+I believe people will pursue relationships or intimate interactions online or via technology ____.,4,90,19,16,Survey,Social-Cultural,Lifestyle,1,Relationships (O),Relationships ,32.37
+I believe people will pursue relationships or intimate interactions online or via technology ____.,5,17,19,16,Survey,Social-Cultural,Lifestyle,1,Relationships (O),Relationships ,6.12
+I believe people will return to using hand shakes and/or other physical greetings.,1,16,1,17,Survey,Social-Cultural,Hygiene,1,Hand Shakes (O),Hand Shakes ,5.76
+I believe people will return to using hand shakes and/or other physical greetings.,2,43,1,17,Survey,Social-Cultural,Hygiene,1,Hand Shakes (O),Hand Shakes ,15.47
+I believe people will return to using hand shakes and/or other physical greetings.,3,25,1,17,Survey,Social-Cultural,Hygiene,1,Hand Shakes (O),Hand Shakes ,8.99
+I believe people will return to using hand shakes and/or other physical greetings.,4,90,1,17,Survey,Social-Cultural,Hygiene,1,Hand Shakes (O),Hand Shakes ,32.37
+I believe people will return to using hand shakes and/or other physical greetings.,5,104,1,17,Survey,Social-Cultural,Hygiene,1,Hand Shakes (O),Hand Shakes ,37.41
+"I believe people will save money more, rather than spend it.",1,50,6,18,Survey,Social-Cultural,Lifestyle,1,Save Money (O),Save Money ,17.99
+"I believe people will save money more, rather than spend it.",2,47,6,18,Survey,Social-Cultural,Lifestyle,1,Save Money (O),Save Money ,16.91
+"I believe people will save money more, rather than spend it.",3,42,6,18,Survey,Social-Cultural,Lifestyle,1,Save Money (O),Save Money ,15.11
+"I believe people will save money more, rather than spend it.",4,100,6,18,Survey,Social-Cultural,Lifestyle,1,Save Money (O),Save Money ,35.97
+"I believe people will save money more, rather than spend it.",5,39,6,18,Survey,Social-Cultural,Lifestyle,1,Save Money (O),Save Money ,14.03
+I believe people will seek out more evidence-based information.,1,51,9,19,Survey,Policy,Science,1,Evidence-Based Info (O),Evidence-Based Info ,18.35
+I believe people will seek out more evidence-based information.,2,52,9,19,Survey,Policy,Science,1,Evidence-Based Info (O),Evidence-Based Info ,18.71
+I believe people will seek out more evidence-based information.,3,52,9,19,Survey,Policy,Science,1,Evidence-Based Info (O),Evidence-Based Info ,18.71
+I believe people will seek out more evidence-based information.,4,85,9,19,Survey,Policy,Science,1,Evidence-Based Info (O),Evidence-Based Info ,30.58
+I believe people will seek out more evidence-based information.,5,38,9,19,Survey,Policy,Science,1,Evidence-Based Info (O),Evidence-Based Info ,13.67
+I believe people will think more before making impulsive purchases.,1,74,7,20,Survey,Social-Cultural,Lifestyle,1,Impulse Buy (O),Impulse Buy ,26.62
+I believe people will think more before making impulsive purchases.,2,69,7,20,Survey,Social-Cultural,Lifestyle,1,Impulse Buy (O),Impulse Buy ,24.82
+I believe people will think more before making impulsive purchases.,3,43,7,20,Survey,Social-Cultural,Lifestyle,1,Impulse Buy (O),Impulse Buy ,15.47
+I believe people will think more before making impulsive purchases.,4,64,7,20,Survey,Social-Cultural,Lifestyle,1,Impulse Buy (O),Impulse Buy ,23.02
+I believe people will think more before making impulsive purchases.,5,28,7,20,Survey,Social-Cultural,Lifestyle,1,Impulse Buy (O),Impulse Buy ,10.07
+I believe people will touch their faces ____.,1,17,21,21,Survey,Social-Cultural,Hygiene,1,Touch Face (O),Touch Face ,6.12
+I believe people will touch their faces ____.,2,104,21,21,Survey,Social-Cultural,Hygiene,1,Touch Face (O),Touch Face ,37.41
+I believe people will touch their faces ____.,3,147,21,21,Survey,Social-Cultural,Hygiene,1,Touch Face (O),Touch Face ,52.88
+I believe people will touch their faces ____.,4,5,21,21,Survey,Social-Cultural,Hygiene,1,Touch Face (O),Touch Face ,1.8
+I believe people will touch their faces ____.,5,5,21,21,Survey,Social-Cultural,Hygiene,1,Touch Face (O),Touch Face ,1.8
+I believe people will travel ____.,1,13,20,22,Survey,Social-Cultural,Transportation,1,Travel (O),Travel ,4.68
+I believe people will travel ____.,2,86,20,22,Survey,Social-Cultural,Transportation,1,Travel (O),Travel ,30.94
+I believe people will travel ____.,3,127,20,22,Survey,Social-Cultural,Transportation,1,Travel (O),Travel ,45.68
+I believe people will travel ____.,4,30,20,22,Survey,Social-Cultural,Transportation,1,Travel (O),Travel ,10.79
+I believe people will travel ____.,5,22,20,22,Survey,Social-Cultural,Transportation,1,Travel (O),Travel ,7.91
+"I believe people will use digital commerce, companies, and platforms ____.",1,2,12,23,Survey,Social-Cultural,Lifestyle,1,Digital Commerce (O),Digital Commerce ,0.72
+"I believe people will use digital commerce, companies, and platforms ____.",2,7,12,23,Survey,Social-Cultural,Lifestyle,1,Digital Commerce (O),Digital Commerce ,2.52
+"I believe people will use digital commerce, companies, and platforms ____.",3,65,12,23,Survey,Social-Cultural,Lifestyle,1,Digital Commerce (O),Digital Commerce ,23.38
+"I believe people will use digital commerce, companies, and platforms ____.",4,152,12,23,Survey,Social-Cultural,Lifestyle,1,Digital Commerce (O),Digital Commerce ,54.68
+"I believe people will use digital commerce, companies, and platforms ____.",5,52,12,23,Survey,Social-Cultural,Lifestyle,1,Digital Commerce (O),Digital Commerce ,18.71
+"I believe people will use public transportation less, if possible.",1,115,5,24,Survey,Social-Cultural,Transportation,1,Public Transport (O),Public Transport ,41.37
+"I believe people will use public transportation less, if possible.",2,56,5,24,Survey,Social-Cultural,Transportation,1,Public Transport (O),Public Transport ,20.14
+"I believe people will use public transportation less, if possible.",3,32,5,24,Survey,Social-Cultural,Transportation,1,Public Transport (O),Public Transport ,11.51
+"I believe people will use public transportation less, if possible.",4,63,5,24,Survey,Social-Cultural,Transportation,1,Public Transport (O),Public Transport ,22.66
+"I believe people will use public transportation less, if possible.",5,12,5,24,Survey,Social-Cultural,Transportation,1,Public Transport (O),Public Transport ,4.32
+I believe people will use technology ____.,2,8,13,25,Survey,Social-Cultural,Work,1,Technology Use (O),Technology Use ,2.88
+I believe people will use technology ____.,3,66,13,25,Survey,Social-Cultural,Work,1,Technology Use (O),Technology Use ,23.74
+I believe people will use technology ____.,4,134,13,25,Survey,Social-Cultural,Work,1,Technology Use (O),Technology Use ,48.2
+I believe people will use technology ____.,5,70,13,25,Survey,Social-Cultural,Work,1,Technology Use (O),Technology Use ,25.18
+I believe people will value classroom education ____.,1,9,18,26,Survey,Cultural,Education,1,Classroom Ed (O),Classroom Ed ,3.24
+I believe people will value classroom education ____.,2,29,18,26,Survey,Cultural,Education,1,Classroom Ed (O),Classroom Ed ,10.43
+I believe people will value classroom education ____.,3,60,18,26,Survey,Cultural,Education,1,Classroom Ed (O),Classroom Ed ,21.58
+I believe people will value classroom education ____.,4,104,18,26,Survey,Cultural,Education,1,Classroom Ed (O),Classroom Ed ,37.41
+I believe people will value classroom education ____.,5,76,18,26,Survey,Cultural,Education,1,Classroom Ed (O),Classroom Ed ,27.34
+I believe people will work harder to foster family and/or community ties.,1,22,8,27,Survey,Cultural,Well-being,1,Fam/Comm Ties (O),Fam/Comm Ties ,7.91
+I believe people will work harder to foster family and/or community ties.,2,38,8,27,Survey,Cultural,Well-being,1,Fam/Comm Ties (O),Fam/Comm Ties ,13.67
+I believe people will work harder to foster family and/or community ties.,3,48,8,27,Survey,Cultural,Well-being,1,Fam/Comm Ties (O),Fam/Comm Ties ,17.27
+I believe people will work harder to foster family and/or community ties.,4,129,8,27,Survey,Cultural,Well-being,1,Fam/Comm Ties (O),Fam/Comm Ties ,46.4
+I believe people will work harder to foster family and/or community ties.,5,41,8,27,Survey,Cultural,Well-being,1,Fam/Comm Ties (O),Fam/Comm Ties ,14.75
+"I believe people will work more remotely, if possible.",1,15,11,28,Survey,Social-Cultural,Work,1,Work Remotely (O),Work Remotely ,5.4
+"I believe people will work more remotely, if possible.",2,21,11,28,Survey,Social-Cultural,Work,1,Work Remotely (O),Work Remotely ,7.55
+"I believe people will work more remotely, if possible.",3,42,11,28,Survey,Social-Cultural,Work,1,Work Remotely (O),Work Remotely ,15.11
+"I believe people will work more remotely, if possible.",4,102,11,28,Survey,Social-Cultural,Work,1,Work Remotely (O),Work Remotely ,36.69
+"I believe people will work more remotely, if possible.",5,98,11,28,Survey,Social-Cultural,Work,1,Work Remotely (O),Work Remotely ,35.25
+The COVID-19 pandemic has greatly affected those closest to me (can include friends and family).,1,8,30,29,Closing,General,-,1,Greatly Affected Closest,NA,2.88
+The COVID-19 pandemic has greatly affected those closest to me (can include friends and family).,2,14,30,29,Closing,General,-,1,Greatly Affected Closest,NA,5.04
+The COVID-19 pandemic has greatly affected those closest to me (can include friends and family).,3,26,30,29,Closing,General,-,1,Greatly Affected Closest,NA,9.35
+The COVID-19 pandemic has greatly affected those closest to me (can include friends and family).,4,101,30,29,Closing,General,-,1,Greatly Affected Closest,NA,36.33
+The COVID-19 pandemic has greatly affected those closest to me (can include friends and family).,5,129,30,29,Closing,General,-,1,Greatly Affected Closest,NA,46.4
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I will be more climate conscious.",1,14,2,1,Survey,Policy,Climate,2,Climate Conscious (I),Climate Conscious ,5.04
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I will be more climate conscious.",2,12,2,1,Survey,Policy,Climate,2,Climate Conscious (I),Climate Conscious ,4.32
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I will be more climate conscious.",3,36,2,1,Survey,Policy,Climate,2,Climate Conscious (I),Climate Conscious ,12.95
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I will be more climate conscious.",4,55,2,1,Survey,Policy,Climate,2,Climate Conscious (I),Climate Conscious ,19.78
+"Due to the evidence of environmental benefit during the pandemic (e.g. reduced pollution), I will be more climate conscious.",5,161,2,1,Survey,Policy,Climate,2,Climate Conscious (I),Climate Conscious ,57.91
+I see myself as extroverted or outgoing.,1,46,29,2,Closing,General,-,2,Extroverted,NA,16.55
+I see myself as extroverted or outgoing.,2,55,29,2,Closing,General,-,2,Extroverted,NA,19.78
+I see myself as extroverted or outgoing.,3,66,29,2,Closing,General,-,2,Extroverted,NA,23.74
+I see myself as extroverted or outgoing.,4,76,29,2,Closing,General,-,2,Extroverted,NA,27.34
+I see myself as extroverted or outgoing.,5,35,29,2,Closing,General,-,2,Extroverted,NA,12.59
+I see myself as introverted or reserved.,1,34,29,3,Closing,General,-,2,Introverted,NA,12.23
+I see myself as introverted or reserved.,2,36,29,3,Closing,General,-,2,Introverted,NA,12.95
+I see myself as introverted or reserved.,3,57,29,3,Closing,General,-,2,Introverted,NA,20.5
+I see myself as introverted or reserved.,4,86,29,3,Closing,General,-,2,Introverted,NA,30.94
+I see myself as introverted or reserved.,5,65,29,3,Closing,General,-,2,Introverted,NA,23.38
+"I will avoid crowded areas more (e.g. concerts, theme parks).",1,47,4,4,Survey,Social-Cultural,Lifestyle,2,Avoid Crowds (I),Avoid Crowds ,16.91
+"I will avoid crowded areas more (e.g. concerts, theme parks).",2,62,4,4,Survey,Social-Cultural,Lifestyle,2,Avoid Crowds (I),Avoid Crowds ,22.3
+"I will avoid crowded areas more (e.g. concerts, theme parks).",3,46,4,4,Survey,Social-Cultural,Lifestyle,2,Avoid Crowds (I),Avoid Crowds ,16.55
+"I will avoid crowded areas more (e.g. concerts, theme parks).",4,61,4,4,Survey,Social-Cultural,Lifestyle,2,Avoid Crowds (I),Avoid Crowds ,21.94
+"I will avoid crowded areas more (e.g. concerts, theme parks).",5,62,4,4,Survey,Social-Cultural,Lifestyle,2,Avoid Crowds (I),Avoid Crowds ,22.3
+I will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,1,2,17,5,Survey,Social-Cultural,Cooperation,2,Globally Aware (I),Globally Aware ,0.72
+I will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,2,3,17,5,Survey,Social-Cultural,Cooperation,2,Globally Aware (I),Globally Aware ,1.08
+I will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,3,78,17,5,Survey,Social-Cultural,Cooperation,2,Globally Aware (I),Globally Aware ,28.06
+I will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,4,119,17,5,Survey,Social-Cultural,Cooperation,2,Globally Aware (I),Globally Aware ,42.81
+I will be ____ globally aware (e.g. feel the importance of global connections and cooperation).,5,76,17,5,Survey,Social-Cultural,Cooperation,2,Globally Aware (I),Globally Aware ,27.34
+I will be ____ trustful of medical professionals.,1,3,24,6,Survey,Policy,Health,2,Trust Doctors (I),Trust Doctors ,1.08
+I will be ____ trustful of medical professionals.,2,8,24,6,Survey,Policy,Health,2,Trust Doctors (I),Trust Doctors ,2.88
+I will be ____ trustful of medical professionals.,3,131,24,6,Survey,Policy,Health,2,Trust Doctors (I),Trust Doctors ,47.12
+I will be ____ trustful of medical professionals.,4,78,24,6,Survey,Policy,Health,2,Trust Doctors (I),Trust Doctors ,28.06
+I will be ____ trustful of medical professionals.,5,58,24,6,Survey,Policy,Health,2,Trust Doctors (I),Trust Doctors ,20.86
+"I will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",1,20,10,7,Survey,Cultural,Well-being,2,Independent (I),Independent ,7.19
+"I will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",2,25,10,7,Survey,Cultural,Well-being,2,Independent (I),Independent ,8.99
+"I will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",3,55,10,7,Survey,Cultural,Well-being,2,Independent (I),Independent ,19.78
+"I will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",4,78,10,7,Survey,Cultural,Well-being,2,Independent (I),Independent ,28.06
+"I will be more comfortable acting independently (e.g. spending time alone, practicing personal hobbies or at-home activities).",5,100,10,7,Survey,Cultural,Well-being,2,Independent (I),Independent ,35.97
+"I will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",1,140,15,8,Survey,Political,-,2,Conservative (I),Conservative ,50.36
+"I will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",2,29,15,8,Survey,Political,-,2,Conservative (I),Conservative ,10.43
+"I will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",3,60,15,8,Survey,Political,-,2,Conservative (I),Conservative ,21.58
+"I will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",4,14,15,8,Survey,Political,-,2,Conservative (I),Conservative ,5.04
+"I will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",5,19,15,8,Survey,Political,-,2,Conservative (I),Conservative ,6.83
+"I will be more politically conservative (e.g. vote for healthcare marketplace, less government aid).",NA,16,15,8,Survey,Political,-,2,Conservative (I),Conservative ,5.76
+"I will be more politically liberal (e.g. vote for universal healthcare, more government aid).",1,20,14,9,Survey,Political,-,2,Liberal (I),Liberal ,7.19
+"I will be more politically liberal (e.g. vote for universal healthcare, more government aid).",2,9,14,9,Survey,Political,-,2,Liberal (I),Liberal ,3.24
+"I will be more politically liberal (e.g. vote for universal healthcare, more government aid).",3,59,14,9,Survey,Political,-,2,Liberal (I),Liberal ,21.22
+"I will be more politically liberal (e.g. vote for universal healthcare, more government aid).",4,51,14,9,Survey,Political,-,2,Liberal (I),Liberal ,18.35
+"I will be more politically liberal (e.g. vote for universal healthcare, more government aid).",5,116,14,9,Survey,Political,-,2,Liberal (I),Liberal ,41.73
+"I will be more politically liberal (e.g. vote for universal healthcare, more government aid).",NA,23,14,9,Survey,Political,-,2,Liberal (I),Liberal ,8.27
+I will carry a mask and/or hand sanitizer around with me as a precaution.,1,31,16,10,Survey,Social-Cultural,Hygiene,2,Carry Masks (I),Carry Masks ,11.15
+I will carry a mask and/or hand sanitizer around with me as a precaution.,2,26,16,10,Survey,Social-Cultural,Hygiene,2,Carry Masks (I),Carry Masks ,9.35
+I will carry a mask and/or hand sanitizer around with me as a precaution.,3,35,16,10,Survey,Social-Cultural,Hygiene,2,Carry Masks (I),Carry Masks ,12.59
+I will carry a mask and/or hand sanitizer around with me as a precaution.,4,92,16,10,Survey,Social-Cultural,Hygiene,2,Carry Masks (I),Carry Masks ,33.09
+I will carry a mask and/or hand sanitizer around with me as a precaution.,5,94,16,10,Survey,Social-Cultural,Hygiene,2,Carry Masks (I),Carry Masks ,33.81
+"I will do ____ to maintain my personal wellness (e.g. eat healthfully, exercise, practice work-life balance).",2,3,26,11,Survey,Cultural,Well-being,2,Wellness (I),Wellness ,1.08
+"I will do ____ to maintain my personal wellness (e.g. eat healthfully, exercise, practice work-life balance).",3,86,26,11,Survey,Cultural,Well-being,2,Wellness (I),Wellness ,30.94
+"I will do ____ to maintain my personal wellness (e.g. eat healthfully, exercise, practice work-life balance).",4,118,26,11,Survey,Cultural,Well-being,2,Wellness (I),Wellness ,42.45
+"I will do ____ to maintain my personal wellness (e.g. eat healthfully, exercise, practice work-life balance).",5,71,26,11,Survey,Cultural,Well-being,2,Wellness (I),Wellness ,25.54
+"I will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",1,15,23,12,Survey,Social-Cultural,Hygiene,2,Remind Others (I),Remind Others ,5.4
+"I will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",2,23,23,12,Survey,Social-Cultural,Hygiene,2,Remind Others (I),Remind Others ,8.27
+"I will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",3,62,23,12,Survey,Social-Cultural,Hygiene,2,Remind Others (I),Remind Others ,22.3
+"I will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",4,83,23,12,Survey,Social-Cultural,Hygiene,2,Remind Others (I),Remind Others ,29.86
+"I will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",5,94,23,12,Survey,Social-Cultural,Hygiene,2,Remind Others (I),Remind Others ,33.81
+"I will feel more comfortable reminding others about safe public hygiene (e.g. covering cough, not touching face).",NA,1,23,12,Survey,Social-Cultural,Hygiene,2,Remind Others (I),Remind Others ,0.36
+I will have ____ trust in my government.,1,65,28,13,Survey,Political,-,2,Trust Gov (I),Trust Gov ,23.38
+I will have ____ trust in my government.,2,64,28,13,Survey,Political,-,2,Trust Gov (I),Trust Gov ,23.02
+I will have ____ trust in my government.,3,113,28,13,Survey,Political,-,2,Trust Gov (I),Trust Gov ,40.65
+I will have ____ trust in my government.,4,26,28,13,Survey,Political,-,2,Trust Gov (I),Trust Gov ,9.35
+I will have ____ trust in my government.,5,10,28,13,Survey,Political,-,2,Trust Gov (I),Trust Gov ,3.6
+I will have ____ trust in vaccines.,1,3,25,14,Survey,Policy,Health,2,Trust Vaccines (I),Trust Vaccines ,1.08
+I will have ____ trust in vaccines.,2,4,25,14,Survey,Policy,Health,2,Trust Vaccines (I),Trust Vaccines ,1.44
+I will have ____ trust in vaccines.,3,162,25,14,Survey,Policy,Health,2,Trust Vaccines (I),Trust Vaccines ,58.27
+I will have ____ trust in vaccines.,4,59,25,14,Survey,Policy,Health,2,Trust Vaccines (I),Trust Vaccines ,21.22
+I will have ____ trust in vaccines.,5,50,25,14,Survey,Policy,Health,2,Trust Vaccines (I),Trust Vaccines ,17.99
+I will practice ______ hygiene during annual flu seasons.,3,69,27,15,Survey,Social-Cultural,Hygiene,2,Flu Season (I),Flu Season ,24.82
+I will practice ______ hygiene during annual flu seasons.,4,122,27,15,Survey,Social-Cultural,Hygiene,2,Flu Season (I),Flu Season ,43.88
+I will practice ______ hygiene during annual flu seasons.,5,87,27,15,Survey,Social-Cultural,Hygiene,2,Flu Season (I),Flu Season ,31.29
+"I will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",1,36,3,16,Survey,Cultural,Well-being,2,Digital Habits (I),Digital Habits ,12.95
+"I will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",2,40,3,16,Survey,Cultural,Well-being,2,Digital Habits (I),Digital Habits ,14.39
+"I will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",3,70,3,16,Survey,Cultural,Well-being,2,Digital Habits (I),Digital Habits ,25.18
+"I will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",4,72,3,16,Survey,Cultural,Well-being,2,Digital Habits (I),Digital Habits ,25.9
+"I will practice healthier digital habits (e.g. screen time limits, responsible online discourse).",5,60,3,16,Survey,Cultural,Well-being,2,Digital Habits (I),Digital Habits ,21.58
+"I will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",1,2,22,17,Survey,Social-Cultural,Hygiene,2,Public Hygiene (I),Public Hygiene ,0.72
+"I will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",2,3,22,17,Survey,Social-Cultural,Hygiene,2,Public Hygiene (I),Public Hygiene ,1.08
+"I will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",3,30,22,17,Survey,Social-Cultural,Hygiene,2,Public Hygiene (I),Public Hygiene ,10.79
+"I will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",4,67,22,17,Survey,Social-Cultural,Hygiene,2,Public Hygiene (I),Public Hygiene ,24.1
+"I will practice safer hygiene in public (e.g. properly covering coughs/sneezes, staying home if sick).",5,176,22,17,Survey,Social-Cultural,Hygiene,2,Public Hygiene (I),Public Hygiene ,63.31
+I will pursue relationships or intimate interactions online or via technology ____.,1,23,19,18,Survey,Social-Cultural,Lifestyle,2,Relationships (I),Relationships ,8.27
+I will pursue relationships or intimate interactions online or via technology ____.,2,37,19,18,Survey,Social-Cultural,Lifestyle,2,Relationships (I),Relationships ,13.31
+I will pursue relationships or intimate interactions online or via technology ____.,3,174,19,18,Survey,Social-Cultural,Lifestyle,2,Relationships (I),Relationships ,62.59
+I will pursue relationships or intimate interactions online or via technology ____.,4,34,19,18,Survey,Social-Cultural,Lifestyle,2,Relationships (I),Relationships ,12.23
+I will pursue relationships or intimate interactions online or via technology ____.,5,10,19,18,Survey,Social-Cultural,Lifestyle,2,Relationships (I),Relationships ,3.6
+I will return to using hand shakes and/or other physical greetings.,1,32,1,19,Survey,Social-Cultural,Hygiene,2,Hand Shakes (I),Hand Shakes ,11.51
+I will return to using hand shakes and/or other physical greetings.,2,40,1,19,Survey,Social-Cultural,Hygiene,2,Hand Shakes (I),Hand Shakes ,14.39
+I will return to using hand shakes and/or other physical greetings.,3,35,1,19,Survey,Social-Cultural,Hygiene,2,Hand Shakes (I),Hand Shakes ,12.59
+I will return to using hand shakes and/or other physical greetings.,4,73,1,19,Survey,Social-Cultural,Hygiene,2,Hand Shakes (I),Hand Shakes ,26.26
+I will return to using hand shakes and/or other physical greetings.,5,98,1,19,Survey,Social-Cultural,Hygiene,2,Hand Shakes (I),Hand Shakes ,35.25
+"I will save money more, rather than spend it.",1,24,6,20,Survey,Social-Cultural,Lifestyle,2,Save Money (I),Save Money ,8.63
+"I will save money more, rather than spend it.",2,20,6,20,Survey,Social-Cultural,Lifestyle,2,Save Money (I),Save Money ,7.19
+"I will save money more, rather than spend it.",3,60,6,20,Survey,Social-Cultural,Lifestyle,2,Save Money (I),Save Money ,21.58
+"I will save money more, rather than spend it.",4,73,6,20,Survey,Social-Cultural,Lifestyle,2,Save Money (I),Save Money ,26.26
+"I will save money more, rather than spend it.",5,101,6,20,Survey,Social-Cultural,Lifestyle,2,Save Money (I),Save Money ,36.33
+I will seek out more evidence-based information.,1,7,9,21,Survey,Policy,Science,2,Evidence-Based Info (I),Evidence-Based Info ,2.52
+I will seek out more evidence-based information.,2,5,9,21,Survey,Policy,Science,2,Evidence-Based Info (I),Evidence-Based Info ,1.8
+I will seek out more evidence-based information.,3,35,9,21,Survey,Policy,Science,2,Evidence-Based Info (I),Evidence-Based Info ,12.59
+I will seek out more evidence-based information.,4,56,9,21,Survey,Policy,Science,2,Evidence-Based Info (I),Evidence-Based Info ,20.14
+I will seek out more evidence-based information.,5,175,9,21,Survey,Policy,Science,2,Evidence-Based Info (I),Evidence-Based Info ,62.95
+I will think more before making impulsive purchases.,1,14,7,22,Survey,Social-Cultural,Lifestyle,2,Impulse Buy (I),Impulse Buy ,5.04
+I will think more before making impulsive purchases.,2,24,7,22,Survey,Social-Cultural,Lifestyle,2,Impulse Buy (I),Impulse Buy ,8.63
+I will think more before making impulsive purchases.,3,62,7,22,Survey,Social-Cultural,Lifestyle,2,Impulse Buy (I),Impulse Buy ,22.3
+I will think more before making impulsive purchases.,4,68,7,22,Survey,Social-Cultural,Lifestyle,2,Impulse Buy (I),Impulse Buy ,24.46
+I will think more before making impulsive purchases.,5,110,7,22,Survey,Social-Cultural,Lifestyle,2,Impulse Buy (I),Impulse Buy ,39.57
+I will touch my face ____.,1,42,21,23,Survey,Social-Cultural,Hygiene,2,Touch Face (I),Touch Face ,15.11
+I will touch my face ____.,2,97,21,23,Survey,Social-Cultural,Hygiene,2,Touch Face (I),Touch Face ,34.89
+I will touch my face ____.,3,128,21,23,Survey,Social-Cultural,Hygiene,2,Touch Face (I),Touch Face ,46.04
+I will touch my face ____.,4,4,21,23,Survey,Social-Cultural,Hygiene,2,Touch Face (I),Touch Face ,1.44
+I will touch my face ____.,5,7,21,23,Survey,Social-Cultural,Hygiene,2,Touch Face (I),Touch Face ,2.52
+I will travel ____.,1,16,20,24,Survey,Social-Cultural,Transportation,2,Travel (I),Travel ,5.76
+I will travel ____.,2,45,20,24,Survey,Social-Cultural,Transportation,2,Travel (I),Travel ,16.19
+I will travel ____.,3,142,20,24,Survey,Social-Cultural,Transportation,2,Travel (I),Travel ,51.08
+I will travel ____.,4,43,20,24,Survey,Social-Cultural,Transportation,2,Travel (I),Travel ,15.47
+I will travel ____.,5,32,20,24,Survey,Social-Cultural,Transportation,2,Travel (I),Travel ,11.51
+"I will use digital commerce, companies, and platforms ____.",1,2,12,25,Survey,Social-Cultural,Lifestyle,2,Digital Commerce (I),Digital Commerce ,0.72
+"I will use digital commerce, companies, and platforms ____.",2,16,12,25,Survey,Social-Cultural,Lifestyle,2,Digital Commerce (I),Digital Commerce ,5.76
+"I will use digital commerce, companies, and platforms ____.",3,153,12,25,Survey,Social-Cultural,Lifestyle,2,Digital Commerce (I),Digital Commerce ,55.04
+"I will use digital commerce, companies, and platforms ____.",4,75,12,25,Survey,Social-Cultural,Lifestyle,2,Digital Commerce (I),Digital Commerce ,26.98
+"I will use digital commerce, companies, and platforms ____.",5,32,12,25,Survey,Social-Cultural,Lifestyle,2,Digital Commerce (I),Digital Commerce ,11.51
+"I will use public transportation less, if possible.",1,81,5,26,Survey,Social-Cultural,Transportation,2,Public Transport (I),Public Transport ,29.14
+"I will use public transportation less, if possible.",2,42,5,26,Survey,Social-Cultural,Transportation,2,Public Transport (I),Public Transport ,15.11
+"I will use public transportation less, if possible.",3,68,5,26,Survey,Social-Cultural,Transportation,2,Public Transport (I),Public Transport ,24.46
+"I will use public transportation less, if possible.",4,44,5,26,Survey,Social-Cultural,Transportation,2,Public Transport (I),Public Transport ,15.83
+"I will use public transportation less, if possible.",5,43,5,26,Survey,Social-Cultural,Transportation,2,Public Transport (I),Public Transport ,15.47
+I will use technology ____.,1,3,13,27,Survey,Social-Cultural,Work,2,Technology Use (I),Technology Use ,1.08
+I will use technology ____.,2,16,13,27,Survey,Social-Cultural,Work,2,Technology Use (I),Technology Use ,5.76
+I will use technology ____.,3,133,13,27,Survey,Social-Cultural,Work,2,Technology Use (I),Technology Use ,47.84
+I will use technology ____.,4,72,13,27,Survey,Social-Cultural,Work,2,Technology Use (I),Technology Use ,25.9
+I will use technology ____.,5,54,13,27,Survey,Social-Cultural,Work,2,Technology Use (I),Technology Use ,19.42
+I will value classroom education ____.,1,8,18,28,Survey,Cultural,Education,2,Classroom Ed (I),Classroom Ed ,2.88
+I will value classroom education ____.,2,16,18,28,Survey,Cultural,Education,2,Classroom Ed (I),Classroom Ed ,5.76
+I will value classroom education ____.,3,90,18,28,Survey,Cultural,Education,2,Classroom Ed (I),Classroom Ed ,32.37
+I will value classroom education ____.,4,71,18,28,Survey,Cultural,Education,2,Classroom Ed (I),Classroom Ed ,25.54
+I will value classroom education ____.,5,93,18,28,Survey,Cultural,Education,2,Classroom Ed (I),Classroom Ed ,33.45
+I will work harder to foster family and/or community ties.,1,8,8,29,Survey,Cultural,Well-being,2,Fam/Comm Ties (I),Fam/Comm Ties ,2.88
+I will work harder to foster family and/or community ties.,2,7,8,29,Survey,Cultural,Well-being,2,Fam/Comm Ties (I),Fam/Comm Ties ,2.52
+I will work harder to foster family and/or community ties.,3,58,8,29,Survey,Cultural,Well-being,2,Fam/Comm Ties (I),Fam/Comm Ties ,20.86
+I will work harder to foster family and/or community ties.,4,108,8,29,Survey,Cultural,Well-being,2,Fam/Comm Ties (I),Fam/Comm Ties ,38.85
+I will work harder to foster family and/or community ties.,5,97,8,29,Survey,Cultural,Well-being,2,Fam/Comm Ties (I),Fam/Comm Ties ,34.89
+"I will work more remotely, if possible.",1,33,11,30,Survey,Social-Cultural,Work,2,Work Remotely (I),Work Remotely ,11.87
+"I will work more remotely, if possible.",2,25,11,30,Survey,Social-Cultural,Work,2,Work Remotely (I),Work Remotely ,8.99
+"I will work more remotely, if possible.",3,55,11,30,Survey,Social-Cultural,Work,2,Work Remotely (I),Work Remotely ,19.78
+"I will work more remotely, if possible.",4,79,11,30,Survey,Social-Cultural,Work,2,Work Remotely (I),Work Remotely ,28.42
+"I will work more remotely, if possible.",5,86,11,30,Survey,Social-Cultural,Work,2,Work Remotely (I),Work Remotely ,30.94
+The COVID-19 pandemic has greatly affected my daily life.,1,17,30,31,Closing,General,-,2,Greatly Affected Me,NA,6.12
+The COVID-19 pandemic has greatly affected my daily life.,2,24,30,31,Closing,General,-,2,Greatly Affected Me,NA,8.63
+The COVID-19 pandemic has greatly affected my daily life.,3,28,30,31,Closing,General,-,2,Greatly Affected Me,NA,10.07
+The COVID-19 pandemic has greatly affected my daily life.,4,104,30,31,Closing,General,-,2,Greatly Affected Me,NA,37.41
+The COVID-19 pandemic has greatly affected my daily life.,5,105,30,31,Closing,General,-,2,Greatly Affected Me,NA,37.77
